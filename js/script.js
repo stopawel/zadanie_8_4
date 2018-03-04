@@ -4,7 +4,7 @@
 
 var name = prompt('Enter your name');
 alert('Hello, ' + name);
-consol.log('Hello, ' + name);
+console.log('Hello, ' + name);
 
 /*kolejny komentarz
 tym razem
